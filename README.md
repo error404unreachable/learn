@@ -1,2 +1,2 @@
-# learn
+# Learn
 Learn to code
